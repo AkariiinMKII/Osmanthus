@@ -1,8 +1,16 @@
 # Sword-Alice
 
-A QMK based custom keyboard.
+A QMK based custom keyboard with modified Alice layout.
 
-_Working in process..._
+___Working in process...___
+
+## Layouts
+
+![keyboard-layout-1](./Misc/KLE_keyboard-layout-1.png)
+_Layout 1_
+
+![keyboard-layout-2](./Misc/KLE_keyboard-layout-2.png)
+_Layout 2 (split backspace)_
 
 ## Related
 
