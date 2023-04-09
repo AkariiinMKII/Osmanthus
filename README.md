@@ -1,4 +1,4 @@
-# Sword-Alice
+# Osmanthus
 
 A QMK based custom keyboard with modified Alice layout.
 
